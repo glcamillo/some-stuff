@@ -1,0 +1,15 @@
+
+# The Host is mandatory for some Web Servers. Change
+#   according the URL you want to chek.
+header = "Host: www1.webserver.com"
+
+header = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+header = "Accept-Language: en-US,en;q=0.5,*/*"
+user-agent = "Mozilla/5.0 (X11; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0"
+compressed
+
+silent
+# no-progress-meter
+# verbose
+
+
